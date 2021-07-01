@@ -1,4 +1,4 @@
-# instagram
+# Portfolio-vue
 
 ## Project setup
 ```
